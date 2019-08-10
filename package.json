@@ -4,5 +4,15 @@
   "main": "src/index.ts",
   "repository": "https://mshrtsr@github.com/mshrtsr/ts-webpack-template.git",
   "author": "Masaharu TASHIRO <masatsr.kit@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "ts-node": "^8.3.0",
+    "ts-node-dev": "^1.0.0-pre.40",
+    "tslint": "^5.18.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-config-standard": "^8.0.1",
+    "tslint-plugin-prettier": "^2.0.1",
+    "typescript": "^3.5.3"
+  }
 }
