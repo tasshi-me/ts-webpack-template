@@ -5,6 +5,11 @@
   "repository": "https://mshrtsr@github.com/mshrtsr/ts-webpack-template.git",
   "author": "Masaharu TASHIRO <masatsr.kit@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production",
+    "tslint": "tslint --project ./  --fix"
+  },
   "devDependencies": {
     "@types/html-webpack-plugin": "^3.2.1",
     "@types/webpack": "^4.32.1",
