@@ -1,0 +1,8 @@
+{
+  "name": "ts-webpack-template",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://mshrtsr@github.com/mshrtsr/ts-webpack-template.git",
+  "author": "Masaharu TASHIRO <masatsr.kit@gmail.com>",
+  "license": "MIT"
+}
