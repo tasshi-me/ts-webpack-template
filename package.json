@@ -23,7 +23,7 @@
     "prettier": "^2.0.4",
     "style-loader": "^1.0.0",
     "ts-loader": "^8.0.3",
-    "ts-node": "^8.3.0",
+    "ts-node": "^9.0.0",
     "ts-node-dev": "^1.0.0-pre.41",
     "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.18.0",
