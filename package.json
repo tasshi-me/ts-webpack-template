@@ -22,7 +22,7 @@
     "htmllint-loader": "^2.1.4",
     "prettier": "^2.0.4",
     "style-loader": "^2.0.0",
-    "ts-loader": "^8.0.3",
+    "ts-loader": "^9.1.0",
     "ts-node": "^9.0.0",
     "ts-node-dev": "^1.0.0-pre.41",
     "tslint": "^6.1.1",
